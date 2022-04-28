@@ -10,3 +10,7 @@ pasos para subir archivos:
 	-Un commit es un conjunto de cambios con un mensaje que los describa
 	-git commit -m "Mensaje"
 3.Cambios desde la nube
+	-git fetch
+	-git pull
+Creacion de ramas
+Una rama es una subdivision de otra rama a partir de cierto punto
