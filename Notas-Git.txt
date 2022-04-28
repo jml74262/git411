@@ -1,0 +1,11 @@
+Git clone
+
+git status
+
+pasos para subir archivos:
+1. preparar o hacer track de los archivos que queremos subir
+	-git add "Nombre_Archivo"
+	Nota: para hacer "unstage de un archivo usamos git restore --stageg <Nombre_Archivo>"
+2. Crear un commit
+	-Un commit es un conjunto de cambios con un mensaje que los describa
+	-git commit -m "Mensaje"
