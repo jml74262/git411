@@ -9,3 +9,4 @@ pasos para subir archivos:
 2. Crear un commit
 	-Un commit es un conjunto de cambios con un mensaje que los describa
 	-git commit -m "Mensaje"
+3.Cambios desde la nube
