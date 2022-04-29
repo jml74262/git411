@@ -14,5 +14,6 @@ pasos para subir archivos:
 	-git pull
 Creacion de ramas
 Una rama es una subdivision de otra rama a partir de cierto punto
+cambio en rama 2
 Se agregaron cambios
-Cambio en rama 3
+Cambio en rama 3, este es el utlimo cambio
